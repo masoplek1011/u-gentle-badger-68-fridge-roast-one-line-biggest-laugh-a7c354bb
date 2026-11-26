@@ -8,7 +8,7 @@ An entry for the make.fun bounty **"Fridge Roast: One Line, Biggest Laugh"** —
 
 ## The roast
 
-> Your light died in spring, but your app still grades my leftovers like a landlord with a clipboard at 2 a.m.
+> Your app grades my leftovers like a landlord with a clipboard, bold for a fridge whose own light died in spring.
 
 ## How it runs
 

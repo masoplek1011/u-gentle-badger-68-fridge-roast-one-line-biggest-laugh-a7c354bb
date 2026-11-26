@@ -4,7 +4,7 @@ import { join } from "node:path";
 // One-line roast of a smart fridge, written for the make.fun bounty
 // "Fridge Roast: One Line, Biggest Laugh".
 const LINE =
-  "Your light died in spring, but your app still grades my leftovers like a landlord with a clipboard at 2 a.m.";
+  "Your app grades my leftovers like a landlord with a clipboard, bold for a fridge whose own light died in spring.";
 
 if (LINE.length < 1 || LINE.length > 200) {
   throw new Error(`roast line must be 1-200 characters, got ${LINE.length}`);
